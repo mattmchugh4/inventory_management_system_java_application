@@ -9,5 +9,3 @@ Java
 
 Contributors
 Matt McHugh
-
-# inventory_management_system_java_application
