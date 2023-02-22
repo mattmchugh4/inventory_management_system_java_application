@@ -4,8 +4,7 @@ This is an inventory management system created in Java, designed to help busines
 Getting Started
 To use the application, you will need to have Java installed on your computer. Once you have Java installed, simply download the project files and open them in your preferred Java IDE.
 
-Technologies Used
+Technologies Used: 
+
 Java
 
-Contributors
-Matt McHugh
